@@ -5,3 +5,8 @@ obj
 /src/dbup-tests/**/*received.txt
 tools
 .idea
+DbUp.sln.DotSettings.user
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
+branch_structure.json
